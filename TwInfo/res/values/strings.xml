@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TwittererInfoActivity!</string>
+    <string name="app_name">TwitInfo</string>
+	<string name="get_button">Get info</string>
+    <string name="gettimeline_button">Get Timeline</string>
+    <string name="username">man_r0</string>
+    <string name="man_r">Follow the Developer @man_r0</string>
+</resources>
